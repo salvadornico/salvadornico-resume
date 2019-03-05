@@ -1,0 +1,16 @@
+{
+	"name": "salvadornico-resume",
+	"version": "1.0.0",
+	"description": "Resume of Nico Salvador",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Nico Salvador",
+	"license": "MIT",
+	"dependencies": {
+		"chalk": "^2.4.2",
+		"inquirer": "^6.2.2",
+		"npm": "^6.8.0"
+	}
+}
